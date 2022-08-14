@@ -21,6 +21,7 @@ public class Main {
       Team<HumanTechie> team4 = new Team<>(" white");
 
 
+
       team1.setPeople(humanTechie1);
       team1.setPeople(humanTechie2);
 
