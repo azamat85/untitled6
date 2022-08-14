@@ -5,5 +5,6 @@ public class Main {
         People pety = new People();
         People sany = new People("Саня",18,"Муж");
         People sany1 = new People("Саня",18,"Муж");
+        People sany2 = new People("Саня",18,"Муж");
     }
 }
